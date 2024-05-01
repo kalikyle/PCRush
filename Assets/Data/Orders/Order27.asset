@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c3ce765f26884c868410eb957c62e, type: 3}
+  m_Name: Order27
+  m_EditorClassIdentifier: 
+  <ClientImage>k__BackingField: {fileID: 21300000, guid: 1f8a482252fff47bf9554f37716ed0ae, type: 3}
+  <ClientName>k__BackingField: Vince
+  <Description>k__BackingField: Advancing medical science is my passion. I require
+    a PC that aids in biomedical research, handles complex datasets, and supports
+    simulation software, driving breakthroughs in healthcare.
+  <Requirements>k__BackingField:
+  - {fileID: 11400000, guid: 396a04387e581464aac4cd6230827d32, type: 2}
+  - {fileID: 11400000, guid: 9d8277f250e7c164489c023818493497, type: 2}
+  - {fileID: 11400000, guid: 92433fe49d4578c4a964c9cba00f56ba, type: 2}
+  - {fileID: 11400000, guid: 0d1bc54e38c8d1d4ab352366c5772767, type: 2}
+  - {fileID: 11400000, guid: 72872b62d8e519e4fb9e8c1c1b0d903e, type: 2}
+  <OrderPrice>k__BackingField: 32000
+  <TimeLimit>k__BackingField: 120
+  <EXP>k__BackingField: 32
+  <Level>k__BackingField: 6

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c3ce765f26884c868410eb957c62e, type: 3}
+  m_Name: Order19
+  m_EditorClassIdentifier: 
+  <ClientImage>k__BackingField: {fileID: 21300000, guid: 5d4b91350ec7542589e57fbc50c3ff89, type: 3}
+  <ClientName>k__BackingField: Diane
+  <Description>k__BackingField: As a small business owner, I need a reliable and
+    versatile PC. It should seamlessly handle administrative tasks, assist in managing
+    finances, and support various business software, ensuring smooth operations and
+    growth.
+  <Requirements>k__BackingField:
+  - {fileID: 11400000, guid: 84c98f6d4bc461e4f97ce4174a4642b9, type: 2}
+  - {fileID: 11400000, guid: c19c24578d685334e93885a797fc472a, type: 2}
+  - {fileID: 11400000, guid: c9541004efc461541a31552e7f5dcad9, type: 2}
+  - {fileID: 11400000, guid: 18e5375954decd043b7fc11513cc4846, type: 2}
+  <OrderPrice>k__BackingField: 32000
+  <TimeLimit>k__BackingField: 120
+  <EXP>k__BackingField: 23
+  <Level>k__BackingField: 4

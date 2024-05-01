@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c3ce765f26884c868410eb957c62e, type: 3}
+  m_Name: Order8
+  m_EditorClassIdentifier: 
+  <ClientImage>k__BackingField: {fileID: 21300000, guid: 493420c46b6c949ee8fd5d20b8f3ec67, type: 3}
+  <ClientName>k__BackingField: Carl
+  <Description>k__BackingField: Working with complex data, GIS, and simulations,
+    I need a PC that supports environmental research and analysis, aiding in sustainable
+    solutions.
+  <Requirements>k__BackingField:
+  - {fileID: 11400000, guid: 9d0d927f1b2e71d43bd88bb6ba9ac5ab, type: 2}
+  - {fileID: 11400000, guid: c9541004efc461541a31552e7f5dcad9, type: 2}
+  - {fileID: 11400000, guid: b5a1a6b960cf9874ab5d43f58bc55d34, type: 2}
+  <OrderPrice>k__BackingField: 18000
+  <TimeLimit>k__BackingField: 100
+  <EXP>k__BackingField: 25
+  <Level>k__BackingField: 2

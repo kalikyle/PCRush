@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e3af12b31ff0a347bd0680b31c8bbf0, type: 3}
+  m_Name: MissionControl
+  m_EditorClassIdentifier: 
+  missionOrders:
+  - orders: {fileID: 11400000, guid: e2563c79974b3e74cb0864718a4b52db, type: 2}
+  - orders: {fileID: 11400000, guid: f94a548d6691dd9429907925369e7ea2, type: 2}
+  - orders: {fileID: 11400000, guid: 6de472cac2d7f0f4e83eb433f8c1a64f, type: 2}
+  - orders: {fileID: 11400000, guid: fc0d0f964141c584eb7ef22754f9fc1a, type: 2}
+  - orders: {fileID: 11400000, guid: 1d5c01058dfb32c48b69c4db72918cb3, type: 2}
+  - orders: {fileID: 11400000, guid: 96a0071cd5d199245a79e28f5367f84a, type: 2}
+  - orders: {fileID: 11400000, guid: a770f8294bd88a4428d0877061cd8ea8, type: 2}
+  - orders: {fileID: 11400000, guid: 3d7589de3d74e7a468c63e71cd43fee5, type: 2}
+  - orders: {fileID: 11400000, guid: e671196995a792347b8b498f03faebd8, type: 2}
+  - orders: {fileID: 11400000, guid: 5a49302a87d83744b937be7231221297, type: 2}
+  - orders: {fileID: 11400000, guid: c8bd918b77224e0498ec535589fe1c84, type: 2}
+  - orders: {fileID: 11400000, guid: e212fc40e281ab14483c5255f4924667, type: 2}
+  - orders: {fileID: 11400000, guid: 564b282742c44b14c84f779e72b7289b, type: 2}
+  - orders: {fileID: 11400000, guid: 8b9a9bd77b9cd4c4f94df31067b5324a, type: 2}
+  - orders: {fileID: 11400000, guid: 9dae0bc6b45291d488f95f75f9ff23cf, type: 2}
+  - orders: {fileID: 11400000, guid: 8d09f5e902fdafe4082eb265719db62e, type: 2}
+  - orders: {fileID: 11400000, guid: 8063f441ac5f0be479ba501565de4c23, type: 2}
+  - orders: {fileID: 11400000, guid: cffc4dadefc70744490d53244310aed6, type: 2}
+  - orders: {fileID: 11400000, guid: c7206c1b3755ef249b23ac793651b623, type: 2}
+  - orders: {fileID: 11400000, guid: dcb33dac36da97243954b329e49bbe9e, type: 2}
+  - orders: {fileID: 11400000, guid: 433669b180354d04089be1ff82fa054b, type: 2}
+  - orders: {fileID: 11400000, guid: 599c83533769fd447b4c98dcfbe19754, type: 2}
+  - orders: {fileID: 11400000, guid: c2816d551808a914494aa77cf33c0479, type: 2}
+  - orders: {fileID: 11400000, guid: 5269535705e57c840b8f56f2a2a928bf, type: 2}
+  - orders: {fileID: 11400000, guid: a1645e3cf646d894e91763a56969c2ca, type: 2}
+  - orders: {fileID: 11400000, guid: 8e87ce4aa651b8b4cb6114ff6d85f6f0, type: 2}
+  - orders: {fileID: 11400000, guid: ee1faa0358ba6cb4a9865350b6bb361d, type: 2}
+  - orders: {fileID: 11400000, guid: 990296be1ca957c48ab43064ad755ca1, type: 2}
+  - orders: {fileID: 11400000, guid: 38a1c3d7e8e7d8e4baa86011f1468f25, type: 2}
+  - orders: {fileID: 11400000, guid: 07fa320b7b7e3054f893cd145077cf00, type: 2}
+  size: 3

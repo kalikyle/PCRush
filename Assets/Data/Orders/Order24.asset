@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c3ce765f26884c868410eb957c62e, type: 3}
+  m_Name: Order24
+  m_EditorClassIdentifier: 
+  <ClientImage>k__BackingField: {fileID: 21300000, guid: 1f8a482252fff47bf9554f37716ed0ae, type: 3}
+  <ClientName>k__BackingField: Archie
+  <Description>k__BackingField: Managing media relations is my expertise. I seek
+    a PC that aids in media monitoring, supports communication tools, and facilitates
+    PR strategies, fostering positive brand representation.
+  <Requirements>k__BackingField:
+  - {fileID: 11400000, guid: 84c98f6d4bc461e4f97ce4174a4642b9, type: 2}
+  - {fileID: 11400000, guid: 414fac2a374a3344aa39cd97ddcc91df, type: 2}
+  - {fileID: 11400000, guid: 189971a9aac16024caba6f03db993018, type: 2}
+  - {fileID: 11400000, guid: 0d1bc54e38c8d1d4ab352366c5772767, type: 2}
+  - {fileID: 11400000, guid: 72872b62d8e519e4fb9e8c1c1b0d903e, type: 2}
+  <OrderPrice>k__BackingField: 25000
+  <TimeLimit>k__BackingField: 100
+  <EXP>k__BackingField: 20
+  <Level>k__BackingField: 5

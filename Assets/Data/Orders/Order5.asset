@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 956c3ce765f26884c868410eb957c62e, type: 3}
+  m_Name: Order5
+  m_EditorClassIdentifier: 
+  <ClientImage>k__BackingField: {fileID: 21300000, guid: a9f63645590f94b9ba636f232a8f858f, type: 3}
+  <ClientName>k__BackingField: Jonathan
+  <Description>k__BackingField: "Working remotely demands a reliable PC setup\u2014focused
+    on seamless communication, multitasking, and remote collaboration tools for an
+    efficient home workspace."
+  <Requirements>k__BackingField:
+  - {fileID: 11400000, guid: fb93e461c82ea934a9fcaeb1cfe6653e, type: 2}
+  - {fileID: 11400000, guid: 28b4b623b01cbf24aa92bbc1cbc33152, type: 2}
+  - {fileID: 11400000, guid: 0d1bc54e38c8d1d4ab352366c5772767, type: 2}
+  <OrderPrice>k__BackingField: 15000
+  <TimeLimit>k__BackingField: 80
+  <EXP>k__BackingField: 15
+  <Level>k__BackingField: 1
